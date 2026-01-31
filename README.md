@@ -20,7 +20,7 @@ O objetivo é demonstrar, de forma simples e prática, como a informação pode 
 - Excel
 - Power BI
 - Power Automate
-- Power Apps (quando aplicável)
+- Power Apps
 
 ## Que valor traz para o negócio?
 - Melhor visibilidade sobre resultados e performance
@@ -29,4 +29,5 @@ O objetivo é demonstrar, de forma simples e prática, como a informação pode 
 
 ## Nota importante
 Todos os projetos apresentados utilizam dados fictícios ou anonimizados e não representam clientes reais.
+
 
