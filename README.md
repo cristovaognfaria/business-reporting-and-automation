@@ -1,29 +1,32 @@
-# Dashboard de Reporting Financeiro
+# Business Reporting & Automation
 
-## Objetivo
-Disponibilizar reporting financeiro claro e prático para apoio à tomada de decisão em pequenas e médias empresas.
+## O que é este repositório?
+Este repositório reúne exemplos de projetos de reporting, dashboards e automatização de processos, desenvolvidos com foco no apoio à gestão financeira e operacional de pequenas e médias empresas.
 
-## Contexto
-Muitas PME não dispõem de reporting financeiro estruturado e recorrem a múltiplos ficheiros Excel, o que dificulta a análise de custos, margens e desempenho global do negócio.
+O objetivo é demonstrar, de forma simples e prática, como a informação pode ser organizada e utilizada para apoiar a tomada de decisão.
 
-## Solução
-Desenvolvimento de dashboards simples e eficazes, focados em:
-- Indicadores financeiros chave (KPI)
+## Que tipo de projetos estão incluídos?
+- Reporting financeiro e operacional
+- Dashboards de indicadores-chave (KPI)
 - Análise de custos e margens
-- Acompanhamento mensal de resultados
-- Suporte à tomada de decisão da gestão
+- Automatização de tarefas administrativas e de reporting
 
-## Ferramentas & Tecnologias
+## Para quem se destina?
+- Pequenas e médias empresas
+- Empresários e gestores
+- Organizações que procuram maior clareza financeira e operacional
+
+## Que ferramentas são utilizadas?
 - Excel
 - Power BI
-- Power Apps
 - Power Automate
-- Sharepoint
+- Power Apps (quando aplicável)
 
-## Valor para o Negócio
-- Visibilidade clara sobre a performance financeira
+## Que valor traz para o negócio?
+- Melhor visibilidade sobre resultados e performance
+- Redução de tarefas manuais e erros
 - Decisões mais rápidas e informadas
-- Redução de trabalho manual nos processos de reporting
 
-## Notas
-Todos os dados utilizados neste projeto são fictícios ou anonimizados e não representam clientes reais.
+## Nota importante
+Todos os projetos apresentados utilizam dados fictícios ou anonimizados e não representam clientes reais.
+
