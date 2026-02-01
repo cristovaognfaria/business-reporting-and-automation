@@ -1,2 +1,3 @@
-## Dashboards
-Exemplos de dashboards de apoio à gestão.
+## Dashboards/ Reporting
+Exemplos de reporting financeiro e operacional para apoio à decisão.
+
